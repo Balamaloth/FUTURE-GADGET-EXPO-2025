@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+ <header class="navbar">
+    <div class="logo">FGE 2025</div>
+    <nav >
+      <a href="home.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="speakers.html">Speakers</a>
+      <a href="schedule.html">Schedule</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <a href="register.html" class="btn-primary">Register</a>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Secure Your Spot</h1>
+      <p class="lead">Join 10,000+ innovators at Future Gadget Expo 2025</p>
+      <p class="date">March 15–17, 2025 • Moscone Convention Center, San Francisco</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <h2 class="pricing-title">Choose Your Pass</h2>
+
+    <div class="pricing">
+      <div class="card">
+        <h3>Standard Pass</h3>
+        <div class="price">$299</div>
+        <div class="muted">Perfect for tech enthusiasts</div>
+        <ul class="features">
+          <li>All keynote presentations</li>
+          <li>Exhibition hall access</li>
+          <li>Networking sessions</li>
+          <li>Welcome reception</li>
+        </ul>
+        <button>Select Standard</button>
+      </div>
+
+      <div class="card">
+        <div class="badge">MOST POPULAR</div>
+        <h3>Premium Pass</h3>
+        <div class="price">$499</div>
+        <div class="muted">For startup professionals</div>
+        <ul class="features">
+          <li>Everything in Standard</li>
+          <li>Premium seating</li>
+          <li>Access to workshops</li>
+          <li>VIP networking lounge</li>
+        </ul>
+        <button>Select Premium</button>
+      </div>
+
+      <div class="card">
+        <h3>VIP Pass</h3>
+        <div class="price">$799</div>
+        <div class="muted">Ultimate experience</div>
+        <ul class="features">
+          <li>Front row seating</li>
+          <li>Private lunch with speakers</li>
+          <li>Exclusive demo sessions</li>
+          <li>VIP shuttle service</li>
+        </ul>
+        <button>Select VIP</button>
+      </div>
+    </div>
+
+    <div class="early">
+      <strong> Early Bird Special</strong>
+      <span style="margin-left:12px;opacity:0.95">Save 20% on all passes! Offer ends January 31st, 2025.</span>
+    </div>
+
+    <form id="regForm">
+      <h3>Registration Form</h3>
+      <div class="form-grid">
+        <div>
+          <label for="first">First Name</label>
+          <input id="first" name="first" type="text" required>
+        </div>
+        <div>
+          <label for="last">Last Name</label>
+          <input id="last" name="last" type="text" required>
+        </div>
+
+        <div>
+          <label for="email">Email Address</label>
+          <input id="email" name="email" type="email" required>
+        </div>
+        <div>
+          <label for="phone">Phone Number</label>
+          <input id="phone" name="phone" type="text" placeholder="(555) 123-4567">
+        </div>
+
+        <div>
+          <label for="company">Company / Organization</label>
+          <input id="company" name="company" type="text">
+        </div>
+        <div>
+          <label for="job">Job Title</label>
+          <input id="job" name="job" type="text">
+        </div>
+
+        <div class="full">
+          <label for="industry">Industry</label>
+          <select id="industry" name="industry">
+            <option value="">Select your industry</option>
+            <option>Software</option>
+            <option>Hardware</option>
+            <option>Biotech</option>
+            <option>Robotics</option>
+          </select>
+        </div>
+
+        <div class="full">
+          <label>Areas of Interest</label>
+          <div style="display:flex;gap:12px;flex-wrap:wrap">
+            <label><input type="checkbox"> Artificial Intelligence</label>
+            <label><input type="checkbox"> Robotics</label>
+            <label><input type="checkbox"> Space Technology</label>
+            <label><input type="checkbox"> Sustainability</label>
+          </div>
+        </div>
+
+        <div class="full">
+          <label for="diet">Dietary Requirements / Allergies</label>
+          <textarea id="diet" name="diet" placeholder="Please let us know about any dietary requirements or allergies..."></textarea>
+        </div>
+
+        <div class="full">
+          <label for="access">Accessibility Requirements</label>
+          <textarea id="access" name="access" placeholder="Please describe any accessibility accommodations needed..."></textarea>
+        </div>
+
+        <div class="full checkbox">
+          <input id="agree" type="checkbox">
+          <label for="agree">I agree to the <u>Terms and Conditions</u> and <u>Privacy Policy</u>.</label>
+        </div>
+
+        <div >
+          <button  class="btn-primary">Complete Registration — $299</button>
+        </div>
+      </div>
+    </form>
+
+    <section class="features-row">
+      <div>
+        <h3>Why Attend Future Gadget Expo?</h3>
+        <div class="feature-card">
+          <h4>Cutting-Edge Content</h4>
+          <p class="muted-small">Learn from 150+ industry leaders and innovators sharing the latest breakthroughs in AI, robotics, space technology, and more.</p>
+        </div>
+
+        <div style="height:12px"></div>
+
+        <div class="feature-card">
+          <h4>Powerful Networking</h4>
+          <p class="muted-small">Connect with 10,000+ professionals, entrepreneurs, investors, and thought leaders from around the world.</p>
+        </div>
+      </div>
+
+      <div>
+        <div class="feature-card">
+          <!-- Use the provided image file if available in the container -->
+          <img src="/mnt/data/a229e862-f4cc-4f43-a303-bba0fd59d89f.jpeg" alt="conference" onerror="this.style.display='none'">
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="footer-container">
+      <div>
+        <h4>Future Gadget Expo</h4>
+        <p>The premier technology exhibition showcasing tomorrows innovations today.</p>
+      </div>
+      <div>
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Speakers</a></li>
+          <li><a href="#">Schedule</a></li>
+          <li><a href="#">Register</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact Info</h4>
+        <p>info@futuregadgetexpo.com<br>(555) 123-4567<br>San Francisco, CA</p>
+      </div>
+    </div>
+    <p class="copyright">@2024 Future Gadget Expo. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
