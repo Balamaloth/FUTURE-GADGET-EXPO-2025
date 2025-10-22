@@ -13,17 +13,29 @@ http://127.0.0.1:5500/FUTURE%20GADGET%20EXPO%202025/home.html
 📁 Folder Structure (with Explanation)
 FUTURE GADGET EXPO 2025/
 │
+ <br>
 ├── home.html
+ <br>
 ├── about.html
+ <br>
 ├── speakers.html
+ <br>
 ├── schedule.html
+ <br>
 ├── gallery.html
+ <br>
 ├── contact.html
+ <br>
 ├── register.html
+ <br>
 ├── css.css
+ <br>
 │
+ <br>
 │
+ <br>
 └── README.md
+ <br>
 
 🧾 Page Descriptions
 🏠 home.html
@@ -32,7 +44,7 @@ The main homepage introducing the event.
 
 Contains banner, theme, and brief intro to the expo.
 
-Includes navigation links to all other sections.
+Includes navigation links to all other sections. <br>
 📸 Preview
 <img width="1755" height="3065" alt="image" src="https://github.com/user-attachments/assets/9fecb4d5-59ea-4cbd-9222-ae72a6dfbe66" />
 
@@ -41,7 +53,7 @@ Includes navigation links to all other sections.
 
 Gives detailed information about the purpose and goals of the event.
 
-Explains the theme and technological innovation focus for 2025.
+Explains the theme and technological innovation focus for 2025. <br>
 📸 Preview
 <img width="1755" height="4289" alt="image" src="https://github.com/user-attachments/assets/622181b8-0adf-4821-87a8-011926b584b7" />
 
@@ -52,7 +64,7 @@ Lists all the keynote speakers and experts.
 
 Each profile includes name, profession, and topic.
 
-Styled using clean CSS grid/flex layouts.
+Styled using clean CSS grid/flex layouts.  <br>
 📸 Preview
 <img width="1755" height="2933" alt="image" src="https://github.com/user-attachments/assets/3394b906-daa8-469f-9780-e73124d71636" />
 
@@ -63,7 +75,7 @@ Displays the event schedule in a structured table or timeline format.
 
 Shows date, session time, and speaker information.
 
-Designed for clarity using only HTML and CSS.
+Designed for clarity using only HTML and CSS. <br>
 📸 Preview
 <img width="1755" height="2962" alt="image" src="https://github.com/user-attachments/assets/b36f1be1-2c0e-4ac2-813d-f5569eaa33e4" />
 
@@ -74,7 +86,7 @@ A visual collection of past and current event photos.
 
 Arranged in a responsive image grid using CSS.
 
-Images are stored in the assets/images/event-gallery/ folder.
+Images are stored in the assets/images/event-gallery/ folder.  <br>
 📸 Preview
 <img width="1755" height="2633" alt="image" src="https://github.com/user-attachments/assets/92b6c8d1-9be9-46f6-9b43-98dbddc59a47" />
 
@@ -85,7 +97,7 @@ Provides official contact information for inquiries.
 
 Includes email, address, and phone number details.
 
-May include a simple contact form layout (no JS functionality).
+May include a simple contact form layout (no JS functionality).  <br>
 📸 Preview
 <img width="1755" height="4254" alt="image" src="https://github.com/user-attachments/assets/89499318-be7d-4d5e-9161-e7eebdc6b798" />
 
@@ -96,7 +108,7 @@ Contains a participant registration form made using HTML forms.
 
 Fields include name, email, organization, and participation type.
 
-Styled entirely with CSS for a clean, user-friendly appearance.
+Styled entirely with CSS for a clean, user-friendly appearance.  <br>
 📸 Preview
 <img width="1755" height="2760" alt="image" src="https://github.com/user-attachments/assets/feafcc68-1a8c-472e-a17d-5a585a398134" />
 
