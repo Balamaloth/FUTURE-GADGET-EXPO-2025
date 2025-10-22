@@ -2,8 +2,8 @@
 
 <h3> “Where Innovation Meets Tomorrow”</h3>
 
-The Future Gadget Expo 2025 website is a fully responsive, static site built using HTML5 and CSS3.
-It serves as a digital platform to showcase — highlighting event details <p  style="color:red;"> ,home , about , speakers, schedules, gallery, contact and registration. </p>  <hr>
+The Future Gadget Expo 2025 website is a fully responsive, static site built using HTML5 and CSS3. <br>
+It serves as a digital platform to showcase — highlighting event details <br> <p  style="color:red;"> ,home , about , speakers, schedules, gallery, contact and registration. </p>  <hr>
 
 <h2> 🖥️ Live Preview </h2>
 
@@ -139,12 +139,12 @@ Gallery images (event-gallery/ folder)
  <hr>
 
 <h1>🧑‍💻 Tech Stack</h1>
-Technology	Purpose
-HTML5	Structure and content
-CSS3	Styling and responsiveness
-No JavaScript Used	Fully static website
-VS Code	Development environment
-GitHub Pages	Hosting and deployment
+Technology	Purpose <br>
+HTML5	Structure and content  <br>
+CSS3	Styling and responsiveness <br>
+No JavaScript Used	Fully static website  <br>
+VS Code	Development environment <br>
+GitHub Pages	Hosting and deployment <br>
 
  <hr>
 <h1> 🖌️ Design Highlights</h1>
