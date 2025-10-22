@@ -46,7 +46,7 @@ Contains banner, theme, and brief intro to the expo.
 
 Includes navigation links to all other sections. <br>
 📸 Preview
-<img width="1755" height="3065" alt="image" src="https://github.com/user-attachments/assets/9fecb4d5-59ea-4cbd-9222-ae72a6dfbe66" / width"20%">
+<img width="1755" height="3065" alt="image" src="https://github.com/user-attachments/assets/9fecb4d5-59ea-4cbd-9222-ae72a6dfbe66" />
 
 
 💡 about.html
