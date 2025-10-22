@@ -50,13 +50,14 @@ HTML5
 CSS3 / TailwindCSS
 Responsive Web Design Principles
 
-📸 Preview
-
-<img width="1755" height="3065" alt="image" src="https://github.com/user-attachments/assets/91a5b43f-f588-4d3f-9730-9a913818a471" />
-
 📬 Contact
 
 Email: info@futuregadgetexpo.com
 
 Location: San Francisco, CA
 Year: 2025
+
+📸 Preview
+
+<img width="1755" height="3065" alt="image" src="https://github.com/user-attachments/assets/91a5b43f-f588-4d3f-9730-9a913818a471" />
+
