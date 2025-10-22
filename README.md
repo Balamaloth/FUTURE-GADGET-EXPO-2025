@@ -1,14 +1,11 @@
-🌐 FUTURE GADGET EXPO 2025
+<h1> 🌐 FUTURE GADGET EXPO 2025 </h1>
 
 “Where Innovation Meets Tomorrow”
 
 The Future Gadget Expo 2025 website is a fully responsive, static site built using HTML5 and CSS3.
 It serves as a digital platform to showcase — highlighting event details,home , about , speakers, schedules, gallery, contact and registration.
 
-🖥️ Live Preview
-
-🔗 Local URL:
-http://127.0.0.1:5500/FUTURE%20GADGET%20EXPO%202025/home.html
+<h2> 🖥️ Live Preview </h2>
 
 📁 Folder Structure (with Explanation)
 FUTURE GADGET EXPO 2025/
@@ -37,7 +34,7 @@ FUTURE GADGET EXPO 2025/
 └── README.md
  <br>
 
-🧾 Page Descriptions
+<h2> 🧾 Page Descriptions</h2> <br>
 🏠 home.html
 
 The main homepage introducing the event.
