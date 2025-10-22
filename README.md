@@ -163,9 +163,13 @@ Consistent navigation bar across all pages   <hr>
  📅 Event Details
 </h1>
 Detail	Information
+
 Event Name	Future Gadget Expo 2025
+
 Date	March 15–17, 2025
+
 Venue	Moscone Convention Center, San Francisco
+
 Theme	Exploring the Future of Human Innovation  
  <hr>
 <h1>
@@ -174,5 +178,6 @@ Theme	Exploring the Future of Human Innovation
 
 📧 Email: info@futuregadgetexpo.com
 
-📞 Phone: +1 (555) 123-4567
+📞 Phone: +1 (555) 123-4567 
+<br>
 📍 Location: San Francisco, California, USA
