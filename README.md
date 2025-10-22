@@ -43,7 +43,7 @@ Contains banner, theme, and brief intro to the expo.
 
 Includes navigation links to all other sections. <br>
 <h1> 📸 Preview</h1>
-<img width="1755" height="3065" alt="image" src="https://github.com/user-attachments/assets/9fecb4d5-59ea-4cbd-9222-ae72a6dfbe66" />
+<img width: 50%; alt="image" src="https://github.com/user-attachments/assets/9fecb4d5-59ea-4cbd-9222-ae72a6dfbe66" /> <hr>
 
 
 <h1> 💡 about.html</h1>
@@ -52,7 +52,7 @@ Gives detailed information about the purpose and goals of the event.
 
 Explains the theme and technological innovation focus for 2025. <br>
 <h1>📸 Preview</h1>
-<img width="1755" height="4289" alt="image" src="https://github.com/user-attachments/assets/622181b8-0adf-4821-87a8-011926b584b7" />
+<img width: 50%; alt="image" src="https://github.com/user-attachments/assets/622181b8-0adf-4821-87a8-011926b584b7" />
 
 
 <h1>🎤 speakers.html</h1>
@@ -63,7 +63,7 @@ Each profile includes name, profession, and topic.
 
 Styled using clean CSS grid/flex layouts.  <br>
 <h1>📸 Preview</h1>
-<img width="1755" height="2933" alt="image" src="https://github.com/user-attachments/assets/3394b906-daa8-469f-9780-e73124d71636" />
+<img width: 50%; alt="image" src="https://github.com/user-attachments/assets/3394b906-daa8-469f-9780-e73124d71636" />
 
 
 <h1>🗓️ schedule.html</h1>
@@ -74,7 +74,7 @@ Shows date, session time, and speaker information.
 
 Designed for clarity using only HTML and CSS. <br>
 <h1>📸 Preview</h1>
-<img width="1755" height="2962" alt="image" src="https://github.com/user-attachments/assets/b36f1be1-2c0e-4ac2-813d-f5569eaa33e4" />
+<img  width: 50%; alt="image" src="https://github.com/user-attachments/assets/b36f1be1-2c0e-4ac2-813d-f5569eaa33e4" />
 
 
 <h1>🖼️ gallery.html</h1>
@@ -87,7 +87,7 @@ Images are stored in the assets/images/event-gallery/ folder.  <br>
 <h1>
  📸 Preview
 </h1>
-<img width="1755" height="2633" alt="image" src="https://github.com/user-attachments/assets/92b6c8d1-9be9-46f6-9b43-98dbddc59a47" />
+<img  width: 50%; alt="image" src="https://github.com/user-attachments/assets/92b6c8d1-9be9-46f6-9b43-98dbddc59a47" />
 
 <h1>
  
@@ -102,7 +102,7 @@ May include a simple contact form layout (no JS functionality).  <br>
 <h1>
  📸 Preview
 </h1>
-<img width="1755" height="4254" alt="image" src="https://github.com/user-attachments/assets/89499318-be7d-4d5e-9161-e7eebdc6b798" />
+<img width: 50%; alt="image" src="https://github.com/user-attachments/assets/89499318-be7d-4d5e-9161-e7eebdc6b798" />
 
 
 <h1>📝 register.html</h1>
@@ -115,7 +115,7 @@ Styled entirely with CSS for a clean, user-friendly appearance.  <br>
 <h1>
  📸 Preview
 </h1>
-<img width="1755" height="2760" alt="image" src="https://github.com/user-attachments/assets/feafcc68-1a8c-472e-a17d-5a585a398134" />
+<img width: 50%; alt="image" src="https://github.com/user-attachments/assets/feafcc68-1a8c-472e-a17d-5a585a398134" />
 
 
  <h2>
